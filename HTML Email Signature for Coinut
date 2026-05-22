@@ -96,8 +96,7 @@
                   </td>
                   <!-- "Coins U Trust." Slogan Right -->
                   <td align="right" valign="middle" style="font-family: 'Open Sans', sans-serif; font-size: 18px; font-weight: 700; color: #ffffff; letter-spacing: -0.2px;">
-                    Coins <span style="color: #fffdfd; ">U</span> Trust.
-
+                    Coins <span style="color: #fffdfd;">U</span> Trust.
                   </td>
                 </tr>
               </table>
@@ -164,7 +163,7 @@
                   </td>
 
                   <!-- COLUMN 2: Branding Tagline & Entities (No Middle Divider Border) -->
-                  <td width="240" valign="top" style="width: 260px; padding-left: 20px; padding-right: 15px;">
+                  <td width="260" valign="top" style="width: 260px; padding-left: 20px; padding-right: 15px;">
                     <!-- Headline Statement -->
                     <div style="font-family: 'Open Sans', sans-serif; font-size: 15px; font-weight: 700; color: #ffffff; line-height: 1.35; margin-bottom: 12px; letter-spacing: -0.1px;">
                       <span style="white-space: nowrap;">Singapore's <span style="color: #00e2b2; font-weight: 800;">Longest-Running</span></span> Digital Assets Business
@@ -204,7 +203,7 @@
                           <table border="0" cellpadding="0" cellspacing="0" width="100%">
                             <tr>
                               <td align="center" style="background-color: #00e2b2; border-radius: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
-                                <a href="https://coinut.com/otc-inquiry" class="cta-button" target="_blank" style="display: block; padding: 8px 12px; font-family: 'Open Sans', sans-serif; font-size: 10.5px; font-weight: 700; color: #041024; text-decoration: none; border-radius: 20px; text-align: center; transition: all 0.2s ease;">
+                                <a href="https://coinut.com/coinutOTC" class="cta-button" target="_blank" style="display: block; padding: 8px 12px; font-family: 'Open Sans', sans-serif; font-size: 10.5px; font-weight: 700; color: #041024; text-decoration: none; border-radius: 20px; text-align: center; transition: all 0.2s ease;">
                                   OTC Inquiry
                                 </a>
                               </td>
@@ -218,7 +217,7 @@
                           <table border="0" cellpadding="0" cellspacing="0" width="100%">
                             <tr>
                               <td align="center" style="background-color: #00e2b2; border-radius: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
-                                <a href="https://coinut.com/payment" class="cta-button" target="_blank" style="display: block; padding: 8px 10px; font-family: 'Open Sans', sans-serif; font-size: 10px; font-weight: 700; color: #041024; text-decoration: none; border-radius: 20px; text-align: center; transition: all 0.2s ease; white-space: nowrap;">
+                                <a href="https://coinut.com/coinutpayment" class="cta-button" target="_blank" style="display: block; padding: 8px 10px; font-family: 'Open Sans', sans-serif; font-size: 10px; font-weight: 700; color: #041024; text-decoration: none; border-radius: 20px; text-align: center; transition: all 0.2s ease; white-space: nowrap;">
                                   Learn About Payment
                                 </a>
                               </td>
